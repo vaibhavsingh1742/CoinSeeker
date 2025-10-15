@@ -12,10 +12,10 @@ CoinSeeker is a python program that helps track various cryptocurrency coins fro
 - Tells the user about percentage increase/decrease of a crypto coin over a period of time
 - Provides a categorical point plot to compare all the crypto coins at once
 
-![categorical point plot of percentage increase of cryptocurrencies over a timeframe](https://i.postimg.cc/CMJP6Xw4/Screenshot-2025-10-15-075710.png)
+![categorical point plot of percentage increase of cryptocurrencies over a timeframe](https://i.postimg.cc/PqQfGT3s/Screenshot-2025-10-15-075710.png)
 
 ### Analysis #2
 - Shows the price history of all crypto coins that are specified in the 'coin_type' python list\
 - Plots line graphs for each of the crypto coins
 
-![line plot to showcase the price history of each crypto coin](https://i.postimg.cc/wB7RgtNy/Screenshot-2025-10-15-080413.png)
+![line plot to showcase the price history of each crypto coin](https://i.postimg.cc/MHM8GSDR/Screenshot-2025-10-15-080413.png)
