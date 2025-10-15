@@ -1,6 +1,5 @@
 # CoinSeeker
-CoinSeeker is a python program that helps track various cryptocurrency coins from CoinMarketCap's API from coinmarketcap.com
-
+CoinSeeker is a python program that helps track various cryptocurrency coins from coinmarketcap.com's API
 ## Instructions
 - Run the 'API Caller' to generate a new .csv file
 - 'API Caller' will fetch new data after a certain delay (can be configured)
