@@ -13,7 +13,7 @@ CoinSeeker is a python program that helps track various cryptocurrency coins fro
 - Add a .csv file firectory and your API key from coinmarketcap
 - Run the loop to generate a new .csv file
 - 'API Caller' will fetch new data after a certain delay (can be configured)
-- Once you have the desired data, 'CoinSeeker CSV Analysis' file can be used
+- Once you have the desired data, 'CoinSeeker CSV Analysis' file can be used for analysis
 - 'CoinSeeker CSV Analysis' fetches the data from .csv file and displays two types of charts
 ## Analysis
 ### 📈Analysis #1
