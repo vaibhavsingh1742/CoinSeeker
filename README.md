@@ -2,8 +2,11 @@
 CoinSeeker is a python program that helps track various cryptocurrency coins from coinmarketcap.com's API
 ## Tech Stack
 🛠️ Python (Pandas, Matplotlib)
+
 🛠️ Pandas for data cleaning, data organization and data storage
+
 🛠️ Matplotlib for data visualization
+
 🛠️ Jupyter Notebook
 ## Instructions
 - First, open 'CoinSeeker API Caller'
